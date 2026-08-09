@@ -1,0 +1,5 @@
+{
+  "include": ["gdscript_editor.py"],
+  "exclude": ["venv", "build", "dist", "release", "__pycache__"],
+  "typeCheckingMode": "basic"
+}

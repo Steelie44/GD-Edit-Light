@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">GDScript Studio icon</title>
+  <desc id="desc">A dark code editor tile with cyan brackets and a GDScript document.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26324a"/>
+      <stop offset="1" stop-color="#101622"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6fbff"/>
+      <stop offset="1" stop-color="#d9e8f4"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#bg)"/>
+  <rect x="31" y="31" width="450" height="450" rx="82" fill="none" stroke="#4b5e80" stroke-width="8"/>
+  <path d="M144 150 78 256l66 106" fill="none" stroke="#49d7d0" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+  <path d="m368 150 66 106-66 106" fill="none" stroke="#49d7d0" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+  <path d="M290 99h-104c-16 0-29 13-29 29v256c0 16 13 29 29 29h154c16 0 29-13 29-29V178z" fill="url(#paper)" stroke="#8ea9bd" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M290 99v59c0 11 9 20 20 20h60" fill="#bfd8e9" stroke="#8ea9bd" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M203 219h111M203 262h80M203 305h111M203 348h65" fill="none" stroke="#304966" stroke-linecap="round" stroke-width="15"/>
+  <circle cx="230" cy="262" r="8" fill="#a04fe0"/>
+  <circle cx="230" cy="305" r="8" fill="#27bcb5"/>
+  <path d="M203 262h27M203 305h27" stroke="#d46b9f" stroke-linecap="round" stroke-width="15"/>
+</svg>
